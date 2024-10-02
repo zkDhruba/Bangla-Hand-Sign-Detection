@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>ca.32de15b7-9b9c-11ec-8b88-d481d788f76c.jpg</filename>
+	<path>C:\Users\Kazi Dev\Untitled Folder\images\collectedimages\ca.32de15b7-9b9c-11ec-8b88-d481d788f76c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>126</ymin>
+			<xmax>334</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

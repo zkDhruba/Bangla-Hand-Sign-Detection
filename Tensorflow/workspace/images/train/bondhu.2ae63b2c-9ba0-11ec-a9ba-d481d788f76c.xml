@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>bondhu.2ae63b2c-9ba0-11ec-a9ba-d481d788f76c.jpg</filename>
+	<path>C:\Users\Kazi Dev\Untitled Folder\images\collectedimages\bondhu.2ae63b2c-9ba0-11ec-a9ba-d481d788f76c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bondhu</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>300</ymin>
+			<xmax>462</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>tha.dffb324a-9b9c-11ec-914d-d481d788f76c.jpg</filename>
+	<path>C:\Users\Kazi Dev\Untitled Folder\images\collectedimages\tha.dffb324a-9b9c-11ec-914d-d481d788f76c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>164</ymin>
+			<xmax>329</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

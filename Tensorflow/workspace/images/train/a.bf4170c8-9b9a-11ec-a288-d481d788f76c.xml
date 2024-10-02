@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>a.bf4170c8-9b9a-11ec-a288-d481d788f76c.jpg</filename>
+	<path>C:\Users\Kazi Dev\Untitled Folder\images\collectedimages\a.bf4170c8-9b9a-11ec-a288-d481d788f76c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>113</ymin>
+			<xmax>221</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

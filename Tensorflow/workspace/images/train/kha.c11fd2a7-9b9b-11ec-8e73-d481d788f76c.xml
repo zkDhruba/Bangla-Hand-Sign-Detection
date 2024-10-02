@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>kha.c11fd2a7-9b9b-11ec-8e73-d481d788f76c.jpg</filename>
+	<path>C:\Users\Kazi Dev\Untitled Folder\images\collectedimages\kha.c11fd2a7-9b9b-11ec-8e73-d481d788f76c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>148</ymin>
+			<xmax>308</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

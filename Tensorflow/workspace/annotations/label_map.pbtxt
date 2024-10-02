@@ -1,0 +1,212 @@
+item { 
+	name:'1'
+	id:1
+}
+item { 
+	name:'2'
+	id:2
+}
+item { 
+	name:'3'
+	id:3
+}
+item { 
+	name:'4'
+	id:4
+}
+item { 
+	name:'5'
+	id:5
+}
+item { 
+	name:'6'
+	id:6
+}
+item { 
+	name:'7'
+	id:7
+}
+item { 
+	name:'8'
+	id:8
+}
+item { 
+	name:'9'
+	id:9
+}
+item { 
+	name:'a'
+	id:10
+}
+item { 
+	name:'ae'
+	id:11
+}
+item { 
+	name:'ami'
+	id:12
+}
+item { 
+	name:'ba'
+	id:13
+}
+item { 
+	name:'bondhu'
+	id:14
+}
+item { 
+	name:'ca'
+	id:15
+}
+item { 
+	name:'cha'
+	id:16
+}
+item { 
+	name:'chandrobindu'
+	id:17
+}
+item { 
+	name:'da'
+	id:18
+}
+item { 
+	name:'dha'
+	id:19
+}
+item { 
+	name:'dho'
+	id:20
+}
+item { 
+	name:'dou'
+	id:21
+}
+item { 
+	name:'e'
+	id:22
+}
+item { 
+	name:'ga'
+	id:23
+}
+item { 
+	name:'gha'
+	id:24
+}
+item { 
+	name:'ha'
+	id:25
+}
+item { 
+	name:'ieo'
+	id:26
+}
+item { 
+	name:'ishara'
+	id:27
+}
+item { 
+	name:'ja'
+	id:28
+}
+item { 
+	name:'jha'
+	id:29
+}
+item { 
+	name:'ka'
+	id:30
+}
+item { 
+	name:'kha'
+	id:31
+}
+item { 
+	name:'la'
+	id:32
+}
+item { 
+	name:'ma'
+	id:33
+}
+item { 
+	name:'maa'
+	id:34
+}
+item { 
+	name:'na'
+	id:35
+}
+item { 
+	name:'naaa'
+	id:36
+}
+item { 
+	name:'o'
+	id:37
+}
+item { 
+	name:'io'
+	id:38
+}
+item { 
+	name:'onushaar'
+	id:39
+}
+item { 
+	name:'oo'
+	id:40
+}
+item { 
+	name:'ou'
+	id:41
+}
+item { 
+	name:'pa'
+	id:42
+}
+item { 
+	name:'pha'
+	id:43
+}
+item { 
+	name:'r'
+	id:44
+}
+item { 
+	name:'salam'
+	id:45
+}
+item { 
+	name:'sha'
+	id:46
+}
+item { 
+	name:'ta'
+	id:47
+}
+item { 
+	name:'tha'
+	id:48
+}
+item { 
+	name:'tho'
+	id:49
+}
+item { 
+	name:'to'
+	id:50
+}
+item { 
+	name:'tumi'
+	id:51
+}
+item { 
+	name:'u'
+	id:52
+}
+item { 
+	name:'uo'
+	id:53
+}
